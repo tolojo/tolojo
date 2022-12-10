@@ -43,10 +43,10 @@ Don't be a programmer, Be a problem solver.
 
 - 📫 How to reach me:
   
-    - :email: [itgoyo@gmail.com](mailto:tomasferreira91@gmail.com)
+    - :email: [tomasferreira91@gmail.com](mailto:tomasferreira91@gmail.com)
     
-    - :camera:[Instagram@itgoyo](https://www.instagram.com/tomas__ferreiraa/)
-    - :bird:[twitter@itgoyo](https://twitter.com/pls_saysike/)
+    - :camera:[Instagram@tomas__ferreiraa](https://www.instagram.com/tomas__ferreiraa/)
+    - :bird:[twitter@pls_saysike](https://twitter.com/pls_saysike/)
 
 
 - :computer: PC:
