@@ -23,13 +23,8 @@ Don't be a programmer, Be a problem solver.
 
 
 - 📫 How to reach me:
-  
     - :email: [tomasferreira91@gmail.com](mailto:tomasferreira91@gmail.com)
-    
-    - :camera:[Instagram@tomas__ferreiraa](https://www.instagram.com/tomas__ferreiraa/)
-    - :bird:[twitter@pls_saysike](https://twitter.com/pls_saysike/)
-
-
+      
 - :computer: PC:
     i7-8th gen 8gb/512gb
 
